@@ -1,4 +1,4 @@
-package ch.efg.sample.api;
+package ch.efg.sample.api.model;
 
 /**
  * @author igor

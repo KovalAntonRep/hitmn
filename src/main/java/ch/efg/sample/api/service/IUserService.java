@@ -1,4 +1,4 @@
-package ch.efg.sample.api;
+package ch.efg.sample.api.service;
 
 import java.util.List;
 import java.util.Map;
